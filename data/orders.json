@@ -1,0 +1,6154 @@
+[
+  {
+    "order_id": "48213",
+    "customer_id": "C1007",
+    "store_id": "TX-0412",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 3,
+    "created_at": "2026-10-30T09:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "51007",
+    "customer_id": "C1012",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T12:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "60450",
+    "customer_id": "C1007",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-28T12:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "72291",
+    "customer_id": "C1025",
+    "store_id": "WA-0233",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_INV_101",
+    "retries": 1,
+    "created_at": "2026-10-31T12:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "93810",
+    "customer_id": "C1015",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T02:37:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "40495",
+    "customer_id": "C1012",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T16:51:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "30379",
+    "customer_id": "C1006",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T00:31:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "19116",
+    "customer_id": "C1005",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T02:08:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "57819",
+    "customer_id": "C1017",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-21T04:51:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52504",
+    "customer_id": "C1014",
+    "store_id": "TX-0412",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T10:06:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "28301",
+    "customer_id": "C1016",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-14T17:37:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "79352",
+    "customer_id": "C1007",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-15T11:37:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "49117",
+    "customer_id": "C1012",
+    "store_id": "CA-1180",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-15T15:13:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "41571",
+    "customer_id": "C1004",
+    "store_id": "CA-1180",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T19:25:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "80686",
+    "customer_id": "C1019",
+    "store_id": "NY-0901",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T05:09:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "10942",
+    "customer_id": "C1014",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T10:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "46500",
+    "customer_id": "C1008",
+    "store_id": "NY-0955",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T17:36:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "71213",
+    "customer_id": "C1006",
+    "store_id": "CA-1201",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_401",
+    "retries": 1,
+    "created_at": "2026-10-20T00:26:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "19880",
+    "customer_id": "C1006",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-04T17:13:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "73092",
+    "customer_id": "C1010",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T10:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "82845",
+    "customer_id": "C1012",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T06:43:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "75909",
+    "customer_id": "C1005",
+    "store_id": "CA-1180",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T18:40:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "84668",
+    "customer_id": "C1039",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T10:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83792",
+    "customer_id": "C1013",
+    "store_id": "WA-0233",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T17:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "49651",
+    "customer_id": "C1033",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T13:41:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "54942",
+    "customer_id": "C1032",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T03:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "67912",
+    "customer_id": "C1000",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T16:52:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "58393",
+    "customer_id": "C1008",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T21:20:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "30257",
+    "customer_id": "C1001",
+    "store_id": "CA-1180",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 1,
+    "created_at": "2026-10-03T21:56:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "70332",
+    "customer_id": "C1014",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T04:14:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "62386",
+    "customer_id": "C1021",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-05T17:42:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "44795",
+    "customer_id": "C1022",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T21:11:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "96951",
+    "customer_id": "C1032",
+    "store_id": "WA-0233",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T01:45:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "66346",
+    "customer_id": "C1020",
+    "store_id": "NY-0955",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T13:40:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "36100",
+    "customer_id": "C1030",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T03:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "77889",
+    "customer_id": "C1007",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-15T03:30:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "76162",
+    "customer_id": "C1028",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T17:18:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "29769",
+    "customer_id": "C1013",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T06:48:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 2,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "56105",
+    "customer_id": "C1034",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-19T21:42:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "13552",
+    "customer_id": "C1029",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-19T07:23:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52840",
+    "customer_id": "C1017",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T23:04:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "36130",
+    "customer_id": "C1015",
+    "store_id": "CA-1180",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T06:48:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "50888",
+    "customer_id": "C1025",
+    "store_id": "CA-1201",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T23:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "49529",
+    "customer_id": "C1002",
+    "store_id": "WA-0311",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-28T16:41:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "95256",
+    "customer_id": "C1030",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T17:38:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "52600",
+    "customer_id": "C1016",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T23:54:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "41499",
+    "customer_id": "C1028",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-11T19:15:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "50135",
+    "customer_id": "C1035",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T19:51:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "73464",
+    "customer_id": "C1038",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T18:06:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "33519",
+    "customer_id": "C1008",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T17:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 3,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "26551",
+    "customer_id": "C1006",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T19:15:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "92502",
+    "customer_id": "C1036",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-28T06:55:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "89471",
+    "customer_id": "C1033",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T04:18:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "32782",
+    "customer_id": "C1026",
+    "store_id": "NY-0955",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T11:55:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "44816",
+    "customer_id": "C1010",
+    "store_id": "WA-0233",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T09:58:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "66626",
+    "customer_id": "C1001",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T03:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "32962",
+    "customer_id": "C1017",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-11T20:55:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "82102",
+    "customer_id": "C1016",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T01:16:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 2,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "10150",
+    "customer_id": "C1026",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-14T20:14:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "27172",
+    "customer_id": "C1038",
+    "store_id": "CA-1201",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_INV_101",
+    "retries": 1,
+    "created_at": "2026-10-31T14:30:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "25396",
+    "customer_id": "C1018",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T19:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "76550",
+    "customer_id": "C1019",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-11-01T02:21:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52176",
+    "customer_id": "C1024",
+    "store_id": "CA-1201",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-24T16:29:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 2,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "67711",
+    "customer_id": "C1000",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T20:25:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 2,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "18968",
+    "customer_id": "C1014",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-11T02:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "64008",
+    "customer_id": "C1010",
+    "store_id": "CA-1180",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T05:52:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "75230",
+    "customer_id": "C1016",
+    "store_id": "TX-0412",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_INV_101",
+    "retries": 3,
+    "created_at": "2026-10-23T20:19:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "73335",
+    "customer_id": "C1022",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-19T16:29:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "56179",
+    "customer_id": "C1016",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T14:49:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "14373",
+    "customer_id": "C1005",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T07:31:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "73156",
+    "customer_id": "C1007",
+    "store_id": "NY-0955",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T00:27:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83048",
+    "customer_id": "C1000",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T22:32:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "93695",
+    "customer_id": "C1035",
+    "store_id": "WA-0311",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 2,
+    "created_at": "2026-10-31T14:52:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "14877",
+    "customer_id": "C1006",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T08:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "74139",
+    "customer_id": "C1002",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T02:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "94518",
+    "customer_id": "C1012",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T02:35:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "40539",
+    "customer_id": "C1000",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T15:40:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "41186",
+    "customer_id": "C1016",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-11-01T06:04:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "77271",
+    "customer_id": "C1014",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T18:49:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52219",
+    "customer_id": "C1017",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T07:42:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "69441",
+    "customer_id": "C1020",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T08:46:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "86869",
+    "customer_id": "C1007",
+    "store_id": "NY-0901",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-15T00:45:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "96079",
+    "customer_id": "C1022",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-05T08:19:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "66244",
+    "customer_id": "C1039",
+    "store_id": "TX-0412",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T14:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "92991",
+    "customer_id": "C1013",
+    "store_id": "NY-0901",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T17:54:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "45665",
+    "customer_id": "C1038",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T19:26:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "49507",
+    "customer_id": "C1018",
+    "store_id": "WA-0311",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T03:17:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 2,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "59834",
+    "customer_id": "C1035",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-24T18:56:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "20205",
+    "customer_id": "C1026",
+    "store_id": "WA-0233",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T22:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "91018",
+    "customer_id": "C1005",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T23:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "20308",
+    "customer_id": "C1014",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T00:25:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "94599",
+    "customer_id": "C1009",
+    "store_id": "WA-0233",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T08:30:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "85952",
+    "customer_id": "C1039",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T16:44:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "69233",
+    "customer_id": "C1004",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-21T02:13:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 2,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "55015",
+    "customer_id": "C1011",
+    "store_id": "TX-0412",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T18:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 2,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "47079",
+    "customer_id": "C1038",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T00:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "50662",
+    "customer_id": "C1025",
+    "store_id": "CA-1180",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T13:24:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "53054",
+    "customer_id": "C1033",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T12:01:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "79013",
+    "customer_id": "C1008",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-21T14:55:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "41133",
+    "customer_id": "C1028",
+    "store_id": "CA-1201",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-13T02:17:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "46932",
+    "customer_id": "C1026",
+    "store_id": "CA-1180",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-15T18:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "23446",
+    "customer_id": "C1018",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-16T07:45:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "55820",
+    "customer_id": "C1024",
+    "store_id": "TX-0587",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_INV_101",
+    "retries": 3,
+    "created_at": "2026-10-21T03:58:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "71487",
+    "customer_id": "C1001",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-11-01T09:18:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "25970",
+    "customer_id": "C1039",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T14:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "92831",
+    "customer_id": "C1018",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T07:06:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "34551",
+    "customer_id": "C1023",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T18:08:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "58929",
+    "customer_id": "C1004",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T23:49:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "81567",
+    "customer_id": "C1029",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T06:02:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "15492",
+    "customer_id": "C1025",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T18:25:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "67637",
+    "customer_id": "C1023",
+    "store_id": "WA-0233",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 2,
+    "created_at": "2026-10-09T19:02:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "33652",
+    "customer_id": "C1005",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T08:30:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "45986",
+    "customer_id": "C1004",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T10:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "58015",
+    "customer_id": "C1002",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-01T16:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83619",
+    "customer_id": "C1028",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T03:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "51889",
+    "customer_id": "C1035",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T09:48:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "82616",
+    "customer_id": "C1008",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T17:11:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "63665",
+    "customer_id": "C1020",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T07:44:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "39552",
+    "customer_id": "C1018",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-01T18:18:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "30210",
+    "customer_id": "C1021",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T15:21:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "37631",
+    "customer_id": "C1001",
+    "store_id": "NY-0955",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T14:55:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "54589",
+    "customer_id": "C1022",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T01:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "68929",
+    "customer_id": "C1018",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T10:17:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "61543",
+    "customer_id": "C1013",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T03:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "95755",
+    "customer_id": "C1000",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T17:41:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 2,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "82070",
+    "customer_id": "C1039",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T12:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "76731",
+    "customer_id": "C1002",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T10:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "90805",
+    "customer_id": "C1021",
+    "store_id": "NY-0955",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T15:45:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "95929",
+    "customer_id": "C1036",
+    "store_id": "CA-1201",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T16:16:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "91230",
+    "customer_id": "C1015",
+    "store_id": "TX-0412",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T06:58:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "29848",
+    "customer_id": "C1032",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-25T22:00:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52604",
+    "customer_id": "C1024",
+    "store_id": "WA-0311",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-16T18:04:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "42311",
+    "customer_id": "C1019",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T04:20:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "98686",
+    "customer_id": "C1022",
+    "store_id": "CA-1180",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T22:32:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 3,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "45601",
+    "customer_id": "C1015",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T15:59:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "16880",
+    "customer_id": "C1006",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-21T19:53:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "72350",
+    "customer_id": "C1020",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-26T02:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "14888",
+    "customer_id": "C1031",
+    "store_id": "CA-1180",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 1,
+    "created_at": "2026-10-05T22:27:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "27589",
+    "customer_id": "C1029",
+    "store_id": "WA-0233",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 1,
+    "created_at": "2026-10-22T06:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "93719",
+    "customer_id": "C1005",
+    "store_id": "NY-0901",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-16T00:49:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "42512",
+    "customer_id": "C1028",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T03:58:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "63138",
+    "customer_id": "C1007",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T01:24:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "97044",
+    "customer_id": "C1038",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T03:34:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "36922",
+    "customer_id": "C1032",
+    "store_id": "NY-0955",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T08:54:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83912",
+    "customer_id": "C1019",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T13:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "63591",
+    "customer_id": "C1026",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T14:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10037",
+        "name": "Bath Towel Set",
+        "price": 24.88,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "39188",
+    "customer_id": "C1019",
+    "store_id": "NY-0955",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T11:14:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "12050",
+    "customer_id": "C1038",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-30T08:34:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "85511",
+    "customer_id": "C1020",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T13:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "65994",
+    "customer_id": "C1024",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T00:15:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83044",
+    "customer_id": "C1016",
+    "store_id": "CA-1201",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T03:43:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "19539",
+    "customer_id": "C1035",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T15:57:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "82362",
+    "customer_id": "C1029",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T23:01:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "83731",
+    "customer_id": "C1035",
+    "store_id": "NY-0901",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-11-01T03:06:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "74044",
+    "customer_id": "C1029",
+    "store_id": "CA-1180",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-11T19:16:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "64053",
+    "customer_id": "C1004",
+    "store_id": "CA-1180",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-12T04:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "90980",
+    "customer_id": "C1030",
+    "store_id": "NY-0955",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-02T14:58:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "12192",
+    "customer_id": "C1018",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T17:43:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "70161",
+    "customer_id": "C1019",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T04:18:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 2,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "72390",
+    "customer_id": "C1010",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-31T12:01:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "19744",
+    "customer_id": "C1036",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T17:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10052",
+        "name": "Camping Tent",
+        "price": 89.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "62205",
+    "customer_id": "C1034",
+    "store_id": "WA-0311",
+    "status": "PAYMENT_PENDING",
+    "last_error": "ERR_PAY_402",
+    "retries": 3,
+    "created_at": "2026-10-05T22:44:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10047",
+        "name": "Dog Food 30lb",
+        "price": 42.98,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52778",
+    "customer_id": "C1031",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T20:38:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "30214",
+    "customer_id": "C1009",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T14:22:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "82710",
+    "customer_id": "C1005",
+    "store_id": "WA-0311",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T11:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "11617",
+    "customer_id": "C1035",
+    "store_id": "CA-1201",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T09:07:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "31916",
+    "customer_id": "C1030",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-19T01:47:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "91289",
+    "customer_id": "C1028",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-05T00:46:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52714",
+    "customer_id": "C1023",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-05T22:36:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 2,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "48185",
+    "customer_id": "C1031",
+    "store_id": "CA-1180",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T22:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 2,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "76402",
+    "customer_id": "C1002",
+    "store_id": "WA-0311",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T17:27:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "90304",
+    "customer_id": "C1025",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-11T12:53:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 3,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "13219",
+    "customer_id": "C1005",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-22T21:49:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "22795",
+    "customer_id": "C1020",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-09T20:34:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "30989",
+    "customer_id": "C1014",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T20:14:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 2,
+        "warehouse_id": "WH-07",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10043",
+        "name": "Paper Towels 12pk",
+        "price": 21.48,
+        "qty": 3,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "66302",
+    "customer_id": "C1013",
+    "store_id": "WA-0233",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-10T04:41:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "52727",
+    "customer_id": "C1031",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-29T03:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 1,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10026",
+        "name": "Nintendo Switch",
+        "price": 299.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "50026",
+    "customer_id": "C1009",
+    "store_id": "NY-0901",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-20T12:20:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 2,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10041",
+        "name": "LEGO Set",
+        "price": 59.99,
+        "qty": 2,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "57059",
+    "customer_id": "C1012",
+    "store_id": "NY-0901",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T07:21:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 3,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "69942",
+    "customer_id": "C1035",
+    "store_id": "TX-0587",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T19:06:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "15453",
+    "customer_id": "C1013",
+    "store_id": "NY-0901",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T17:22:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "14224",
+    "customer_id": "C1028",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-21T09:02:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10029",
+        "name": "Laptop 15in",
+        "price": 549.0,
+        "qty": 3,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10048",
+        "name": "Cat Litter",
+        "price": 16.47,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "28249",
+    "customer_id": "C1003",
+    "store_id": "WA-0311",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-06T04:57:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "63948",
+    "customer_id": "C1008",
+    "store_id": "CA-1180",
+    "status": "PAYMENT_PENDING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-04T13:37:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10045",
+        "name": "Ground Coffee 2lb",
+        "price": 15.48,
+        "qty": 2,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "92890",
+    "customer_id": "C1028",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T23:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 3,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "58374",
+    "customer_id": "C1037",
+    "store_id": "TX-0412",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T00:50:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 2,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "80048",
+    "customer_id": "C1013",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-01T21:21:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10033",
+        "name": "Microwave",
+        "price": 98.0,
+        "qty": 1,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10049",
+        "name": "Vitamins 100ct",
+        "price": 11.88,
+        "qty": 3,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10032",
+        "name": "Vacuum Cleaner",
+        "price": 129.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "70238",
+    "customer_id": "C1028",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T06:37:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10036",
+        "name": "Queen Bed Sheets",
+        "price": 29.97,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "49566",
+    "customer_id": "C1005",
+    "store_id": "WA-0311",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T02:39:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "72496",
+    "customer_id": "C1033",
+    "store_id": "NY-0955",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-14T04:17:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10023",
+        "name": "PS5 Console",
+        "price": 499.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "65353",
+    "customer_id": "C1014",
+    "store_id": "NY-0901",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-17T09:35:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "49223",
+    "customer_id": "C1009",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T07:28:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "37925",
+    "customer_id": "C1039",
+    "store_id": "NY-0955",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-27T21:57:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10051",
+        "name": "Garden Hose",
+        "price": 22.97,
+        "qty": 3,
+        "warehouse_id": "WH-07",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "66280",
+    "customer_id": "C1017",
+    "store_id": "TX-0587",
+    "status": "DELIVERED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-28T03:33:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 3,
+        "warehouse_id": "WH-10",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10042",
+        "name": "Board Game",
+        "price": 24.99,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "89551",
+    "customer_id": "C1018",
+    "store_id": "TX-0412",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-08T22:38:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10035",
+        "name": "Bookshelf",
+        "price": 64.99,
+        "qty": 3,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "11581",
+    "customer_id": "C1008",
+    "store_id": "NY-0901",
+    "status": "CANCELLED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-03T01:12:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 2,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      },
+      {
+        "item_id": "SKU-10040",
+        "name": "Kids' Backpack",
+        "price": 19.97,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10044",
+        "name": "Laundry Detergent",
+        "price": 13.97,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10028",
+        "name": "Bluetooth Speaker",
+        "price": 59.98,
+        "qty": 2,
+        "warehouse_id": "WH-09",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "75673",
+    "customer_id": "C1025",
+    "store_id": "TX-0587",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-18T12:03:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10031",
+        "name": "Coffee Maker",
+        "price": 44.97,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10025",
+        "name": "55in 4K TV",
+        "price": 378.0,
+        "qty": 1,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "61213",
+    "customer_id": "C1004",
+    "store_id": "WA-0233",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-07T13:50:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10046",
+        "name": "Protein Bars 12ct",
+        "price": 17.98,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10050",
+        "name": "Tool Kit",
+        "price": 34.97,
+        "qty": 1,
+        "warehouse_id": "WH-08",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10030",
+        "name": "Air Fryer",
+        "price": 79.0,
+        "qty": 1,
+        "warehouse_id": "WH-05",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "order_id": "27984",
+    "customer_id": "C1022",
+    "store_id": "WA-0233",
+    "status": "PROCESSING",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-26T19:04:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10027",
+        "name": "iPad 10th Gen",
+        "price": 349.0,
+        "qty": 1,
+        "warehouse_id": "WH-06",
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "order_id": "45649",
+    "customer_id": "C1004",
+    "store_id": "NY-0955",
+    "status": "SHIPPED",
+    "last_error": null,
+    "retries": 0,
+    "created_at": "2026-10-23T16:20:00Z",
+    "items": [
+      {
+        "item_id": "SKU-10039",
+        "name": "Women's Sneakers",
+        "price": 49.0,
+        "qty": 3,
+        "warehouse_id": "WH-03",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10034",
+        "name": "Office Chair",
+        "price": 119.0,
+        "qty": 1,
+        "warehouse_id": "WH-02",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10024",
+        "name": "AirPods Pro",
+        "price": 249.0,
+        "qty": 1,
+        "warehouse_id": "WH-04",
+        "in_stock": true
+      },
+      {
+        "item_id": "SKU-10038",
+        "name": "Men's Jacket",
+        "price": 39.99,
+        "qty": 1,
+        "warehouse_id": "WH-01",
+        "in_stock": true
+      }
+    ]
+  }
+]
