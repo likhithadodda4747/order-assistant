@@ -7,7 +7,12 @@ authors = [
     { name = "Likhitha Dodda", email = "likhithadodda27@gmail.com" }
 ]
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "anthropic>=0.125.0",
+    "psycopg[binary]>=3.2.13",
+    "python-dotenv>=1.2.1",
+    "voyageai>=0.5.0",
+]
 
 [project.scripts]
 order-assistant = "order_assistant:main"
